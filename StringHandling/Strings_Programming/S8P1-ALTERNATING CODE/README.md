@@ -1,6 +1,6 @@
 *PROBLEM* <br>
-S8P1-ALTERNATING CODE
-Alternating Code
+S8P1-ALTERNATING CODE <br>
+Alternating Code <br>
 It is IPL Season and the first league match of Dhilip’s favorite team, "Chennai Super Kings". The CSK team is playing at the IPL after 2 years and like all Dhoni lovers, Dhilip is also eagerly awaiting to see Dhoni back in action.
 
 After waiting in long queues, Dhilip succeeded in getting the tickets for the big match. On the ticket, there is a letter-code that can be represented as a string of Latin letters.
